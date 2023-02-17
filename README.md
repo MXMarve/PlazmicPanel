@@ -1,7 +1,7 @@
 # Plazmic Panel
 Server Management Utility
 
-Download here: https://github.com/MXMarve/PlazmicPanel/raw/main/PlazmicSetup_1.0.exe
+Download here: https://github.com/MXMarve/PlazmicPanel/releases/download/1.3/PlazmicSetup_1.3.exe
 
 Pls give credit where due
 
